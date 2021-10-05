@@ -80,23 +80,10 @@ img {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 400px;
     font-size: 1.3rem;
   }
 
-  #lezioni .row>.left,
-  #lezioni .row>.right {
 
-    width: 90%;
-  }
-
-  #steps .row>.left,
-  #steps .row>.central,
-  #steps .row>.right {
-
-    width: 90%;
-    margin-bottom: 20px;
-  }
 
   #why .row>.first,
   #why .row>.second,
